@@ -1,0 +1,4 @@
+CREATE TABLE `adlar` (
+  `id` int NOT NULL AUTO_INCREMENT PRIMARY KEY,
+  `ad` varchar(25) NOT NULL
+) COLLATE 'utf8_turkish_ci';
